@@ -7,6 +7,8 @@
   <script setup>
   // Keine zusätzliche Logik notwendig, da die Card nur als Wrapper dient
   </script>
+
+  
   
   <style scoped>
   .base-card {
